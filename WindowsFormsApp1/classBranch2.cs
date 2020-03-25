@@ -6,8 +6,13 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp1
 {
-    class Class1
+    class Classbranch2
     {
         int start=0;
+       
     }
+    public void branch()
+        {
+        int branch=2;
+        }
 }
